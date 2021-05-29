@@ -9,6 +9,9 @@ void main() {
           backgroundColor: Colors.blueGrey[900],
         ),
         backgroundColor: Colors.black12,
+        body: Image(
+          image: NetworkImage('https://thebritlankanburberry.files.wordpress.com/2018/03/15591026_10206989037399178_2447241003550498209_o.jpg'),
+        ),
       ),
     ),
   );
